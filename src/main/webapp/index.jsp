@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Netflix - VANAKAM ....</h2>
+      <h2> Netflix</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit">Login </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
